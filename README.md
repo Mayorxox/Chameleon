@@ -2,9 +2,10 @@
 
 Chameleon is a developer-ready repository implementing a two-phase generative pipeline for
 synthesizing study-ready videos of autonomous devices. It supports:
-- Phase I: Proxemic trajectory scripting (JSON trajectories)
+- Phase I: Input trajectory scripting (JSON trajectories)
 - Phase II: Compositional prompt generation (structured JSON prompts and composed text prompts)
 - Phase III: Video synthesis & refinement stubs (temporal/physical regularizers)
+- Phase IV: Instrumentation for interaction studies
 
 This repo is intentionally modular and ready to extend to real generative backends (e.g., Google Veo 3, Runway).
 
