@@ -1,0 +1,23 @@
+{
+  "environment": {
+    "scene": "urban street corner",
+    "backdrop": "sidewalk with buildings, crosswalk nearby",
+    "conditioning_image": "figures/sample_frame.png"
+  },
+  "device": {
+    "platform": "4-wheeled ground robot (Jackal-like)",
+    "function": "monitoring",
+    "sensors": [
+      "light_sensor",
+      "thermal_camera"
+    ],
+    "dimensions": "0.5m x 0.43m x 0.51m"
+  },
+  "behavior": {
+    "trajectory": "smooth forward path along sidewalk edge",
+    "proxemic_distance": "1.5m",
+    "speed": "1.2 m/s",
+    "duration": 15,
+    "fps": 15
+  }
+}

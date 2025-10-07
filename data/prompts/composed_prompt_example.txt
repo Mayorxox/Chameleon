@@ -1,0 +1,7 @@
+Scene: urban street corner
+Backdrop: sidewalk with buildings, crosswalk nearby
+Device: 4-wheeled ground robot (Jackal-like) - monitoring
+Dimensions: 0.5m x 0.43m x 0.51m
+Behavior: maintains ~1.5m proxemic buffer; speed 1.2 m/s; trajectory smooth forward path along sidewalk edge
+Camera: fixed frontal viewpoint, 15s duration, 15fps
+Style: photorealistic, natural lighting, slight motion blur for realism
