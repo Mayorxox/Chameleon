@@ -1,0 +1,20 @@
+
+# Composed Prompts for Perceptual Variants
+
+## Variant 1 — Erratic Motion
+environment: same as baseline
+robot: same Jackal model
+behavior: jittery acceleration, frequent turns, inconsistent stop–go motion
+prompt addition: "simulate uncertainty or malfunction through irregular wheel motion"
+
+## Variant 2 — Massive Form
+environment: same as baseline
+robot: scaled 1.5x larger, heavy treads, lower camera mount
+behavior: slower, deliberate navigation
+prompt addition: "convey mechanical weight and industrial form"
+
+## Variant 3 — Signal-Rich
+environment: same as baseline
+robot: add LED strips, directional lights, blinking indicators
+behavior: gestures or light cues during turns
+prompt addition: "simulate intent communication via color and light patterns"

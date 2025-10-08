@@ -1,0 +1,6 @@
+
+# Structured Prompt: Baseline Jackal Ground Robot
+environment: urban sidewalk, clear daylight, light pedestrian activity
+robot: Clearpath Jackal with mounted RGB-D camera and LiDAR
+behavior: smooth, consistent forward navigation, steady 1.0 m/s speed
+perceptual focus: stability, predictability, low intrusion
