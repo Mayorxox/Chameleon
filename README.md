@@ -1,4 +1,4 @@
-# Chameleon — Developer-ready Repo
+# Chameleon — Testing Repo
 
 Chameleon is a developer-ready repository implementing a two-phase generative pipeline for
 synthesizing study-ready videos of autonomous devices. It supports:
